@@ -2483,8 +2483,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area ------------*/
 .banner-area {
-  background: url(../img/hero-bg.jpg) center;
+  background: url(../img/madam\ tusan\ banner.png) center;
   background-size: cover;
+  background-size: 950px;
 }
 
 .banner-area .overlay-bg {
